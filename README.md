@@ -1,11 +1,11 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <h1 align="center">
- Property
+ Order
 </h1>
 
 ## 🧐 What's inside?
 
-A Quick And Esay Way To Find Out Your Property's Worth
+Family and friends can order a batch of goods as a group to reduce carbon footprint.
 
 ## Table of contents
 
@@ -15,17 +15,21 @@ A Quick And Esay Way To Find Out Your Property's Worth
 
 ## General info
 
-A Simple to use webiste that helps user quickly to get their house's estimate value.
-User enter their address and will return the property's estimate market value
+Today we are facing the climate change problem globally. How might we bring
+together the users effort collectively as a community to reduce the carbon
+footprint by designing a platform so family and friends can order goods as a
+group to minimize transportation impact and also help to support the local
+vendor and produce.
 
 ## Technologies
 
 Project is created with:
 
 - react version: 16.8.6
-- material-ui version: 3.9.3
+- redux version 4.0.1
 - styled-components version: 4.3.2
-- axios version: 0.18.1
+- firebase version 6.3.0
+- react-apollo version: 2.5.8
 
 ## Setup
 
@@ -34,11 +38,9 @@ To run this project, install it locally using npm:
 ```
 $ cd ../order-client
 $ npm install
-$ gastby develop
+$ npm start
 ```
 
 <!-- AUTO-GENERATED-CONTENT:END -->
-
-
 
 # Order-Client
